@@ -1,4 +1,4 @@
-name: pack.cr
+name: pack
 version: 0.1.0
 
 description: Compile-time (un)pack macros from Perl / Ruby
